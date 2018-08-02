@@ -90,7 +90,7 @@ SkipMetro.supportedOn = win8
 
 
 Title.text = Paramètres Classic Start
-State.text = Etat:
+State.text = État:
 State1.text = Verrouillé sur cette valeur
 State2.text = Verrouillé sur le paramètre par défaut
 State3.text = Déverrouillé
@@ -117,51 +117,51 @@ EnableSettings.nameOverride = Activer les paramètres
 EnableSettings.tipOverride = Permettre aux utilisateurs de modifier leurs propres paramètres
 
 MenuStyle.nameOverride = Style du menu
-MenuStyle.tipOverride = Sélectionnez le style pour le menu démarrer.\nLe style détermine l'apparence générale et les fonctionnalités du menu.
+MenuStyle.tipOverride = Sélectionner le style pour le menu démarrer.\nLe style détermine l'apparence générale et les fonctionnalités du menu.
 MenuStyle_Classic1.nameOverride = Classique avec une colonne
 MenuStyle_Classic2.nameOverride = Classique avec deux colonnes
 MenuStyle_Win7.nameOverride = Windows 7
 
-MouseClick.nameOverride = Clic gauche ouvre
-ShiftClick.nameOverride = Maj+Clic ouvre
-WinKey.nameOverride = Touche Windows ouvre
-ShiftWin.nameOverride = Maj+Win ouvre
-MiddleClick.nameOverride = Clic milieu ouvre
-Hover.nameOverride = Le survol ouvre
+MouseClick.nameOverride = Clic gauche ouvrir
+ShiftClick.nameOverride = Maj+Clic ouvrir
+WinKey.nameOverride = Touche Windows ouvrir
+ShiftWin.nameOverride = Maj+Win ouvrir
+MiddleClick.nameOverride = Clic milieu ouvrir
+Hover.nameOverride = Le survol ouvrir
 
 ; skins
-SkinC1.nameOverride = Peau (skin) pour le menu classique avec une colonne
-SkinC1.tipOverride = Sélectionnez la Peau (skin) à être utilisée par le style classique avec une colonne
-SkinVariationC1.nameOverride = Variété de Peau (skin) pour le menu classique avec une colonne
-SkinVariationC1.tipOverride = Sélectionnez la variété de peau (skin) à être utilisée avec le style classique avec une colonne (pour les peaux (skins) qui supportent de multiples variations)
-SkinOptionsC1.nameOverride = Options de Peaux (skins) pour le menu classique avec une colonne
-SkinOptionsC1.tipOverride = Sélectionnez les options de Peaux (skins) à être utilisée avec le style classique avec une colonne.\nLes options sont une liste de nombres Hexa. La meilleur façon de les obtenir est d'ajuster les options dans la boîte de dialogue des paramètres du Menu Démarrer Classique et de les chercher la valeur nommée SkinOptionsC1 dans HKCU\Software\PassionateCoder\ClassicStartMenu\Settings
-MenuItems1.nameOverride = Elément de menu pour le menu classique avec une colonne
-MenuItems1.tipOverride = Sélectionnez les éléments de menu à être utilisés avec le style classique avec une colonne.\nLa meilleur façon de les obtenir est de configurer les éléments dans la boîte de dialogue des paramètres du Menu Démarrer Classique et de les chercher la valeur nommée MenuItems1 dans HKCU\Software\PassionateCoder\ClassicStartMenu\Settings
-SkinC2.nameOverride = Peau (skin) pour le menu classique avec deux colonne
-SkinC2.tipOverride = Sélectionnez la Peau (skin) à être utilisée par le style classique avec deux colonne
-SkinVariationC2.nameOverride = Variété de Peau (skin) pour le menu classique avec deux colonne
-SkinVariationC2.tipOverride = Sélectionnez la variété de peau (skin) à être utilisée avec le style classique avec deux colonne (pour les peaux (skins) qui supportent de multiples variations)
-SkinOptionsC2.nameOverride = Options de Peaux (skins) pour le menu classique avec deux colonne
-SkinOptionsC2.tipOverride = Sélectionnez les options de Peaux (skins) à être utilisée avec le style classique avec deux colonne.\nLes options sont une liste de nombres Hexa. La meilleur façon de les obtenir est d'ajuster les options dans la boîte de dialogue des paramètres du Menu Démarrer Classique et de les chercher la valeur nommée SkinOptionsC2 dans HKCU\Software\PassionateCoder\ClassicStartMenu\Settings
-MenuItems2.nameOverride = Elément de menu pour le menu classique avec deux colonne
-MenuItems2.tipOverride = Sélectionnez les éléments de menu à être utilisés avec le style classique avec deux colonne.\nLa meilleur façon de les obtenir est de configurer les éléments dans la boîte de dialogue des paramètres du Menu Démarrer Classique et de les chercher la valeur nommée MenuItems2 dans HKCU\Software\PassionateCoder\ClassicStartMenu\Settings
-SkinW7.nameOverride = Peau (skin) pour le style Windows 7
-SkinW7.tipOverride = Sélectionnez la Peau (skin) à être utilisée par le style Windows 7
-SkinVariationW7.nameOverride = Variété de Peau (skin) pour le style Windows 7
-SkinVariationW7.tipOverride = Sélectionnez la variété de peau (skin) à être utilisée avec  le style Windows 7 (pour les peaux (skins) qui supportent de multiples variations)
-SkinOptionsW7.nameOverride = Options de Peaux (skins) pour le style Windows 7
-SkinOptionsW7.tipOverride = Sélectionnez les options de Peaux (skins) à être utilisée avec le style Windows 7.\nLes options sont une liste de nombres Hexa. La meilleur façon de les obtenir est d'ajuster les options dans la boîte de dialogue des paramètres du Menu Démarrer Classique et de les chercher la valeur nommée SkinOptionsW7 dans HKCU\Software\PassionateCoder\ClassicStartMenu\Settings
-MenuItems7.nameOverride = Elément de menu pour le style Windows 7
-MenuItems7.tipOverride = Sélectionnez les éléments de menu à être utilisés avec le style Windows 7.\nLa meilleur façon de les obtenir est de configurer les éléments dans la boîte de dialogue des paramètres du Menu Démarrer Classique et de les chercher la valeur nommée MenuItems7 dans HKCU\Software\PassionateCoder\ClassicStartMenu\Settings
+SkinC1.nameOverride = Skin pour le menu classique avec une colonne
+SkinC1.tipOverride = Sélectionner le skin à être utilisée par le style classique avec une colonne
+SkinVariationC1.nameOverride = Variété de skin pour le menu classique avec une colonne
+SkinVariationC1.tipOverride = Sélectionner la variété de skin à être utilisée avec le style classique avec une colonne (pour les peaux (skins) qui supportent de multiples variations)
+SkinOptionsC1.nameOverride = Options de skins pour le menu classique avec une colonne
+SkinOptionsC1.tipOverride = Sélectionner les options de skins à être utilisée avec le style classique avec une colonne.\nLes options sont une liste de nombres Hexa. La meilleur façon de les obtenir est d'ajuster les options dans la boîte de dialogue des paramètres du Menu Démarrer Classique et de les chercher la valeur nommée SkinOptionsC1 dans HKCU\Software\PassionateCoder\ClassicStartMenu\Settings
+MenuItems1.nameOverride = Élément de menu pour le menu classique avec une colonne
+MenuItems1.tipOverride = Sélectionner les éléments de menu à être utilisés avec le style classique avec une colonne.\nLa meilleur façon de les obtenir est de configurer les éléments dans la boîte de dialogue des paramètres du Menu Démarrer Classique et de les chercher la valeur nommée MenuItems1 dans HKCU\Software\PassionateCoder\ClassicStartMenu\Settings
+SkinC2.nameOverride = Skin pour le menu classique avec deux colonne
+SkinC2.tipOverride = Sélectionner le skin à être utilisée par le style classique avec deux colonne
+SkinVariationC2.nameOverride = Variété de skin pour le menu classique avec deux colonne
+SkinVariationC2.tipOverride = Sélectionner la variété de skin à être utilisée avec le style classique avec deux colonne (pour les skins qui supportent de multiples variations)
+SkinOptionsC2.nameOverride = Options de skins pour le menu classique avec deux colonne
+SkinOptionsC2.tipOverride = Sélectionner les options de skins à être utilisée avec le style classique avec deux colonne.\nLes options sont une liste de nombres Hexa. La meilleur façon de les obtenir est d'ajuster les options dans la boîte de dialogue des paramètres du Menu Démarrer Classique et de les chercher la valeur nommée SkinOptionsC2 dans HKCU\Software\PassionateCoder\ClassicStartMenu\Settings
+MenuItems2.nameOverride = Élément de menu pour le menu classique avec deux colonne
+MenuItems2.tipOverride = Sélectionner les éléments de menu à être utilisés avec le style classique avec deux colonne.\nLa meilleur façon de les obtenir est de configurer les éléments dans la boîte de dialogue des paramètres du Menu Démarrer Classique et de les chercher la valeur nommée MenuItems2 dans HKCU\Software\PassionateCoder\ClassicStartMenu\Settings
+SkinW7.nameOverride = Skin pour le style Windows 7
+SkinW7.tipOverride = Sélectionner le skin à être utilisée par le style Windows 7
+SkinVariationW7.nameOverride = Variété de skin pour le style Windows 7
+SkinVariationW7.tipOverride = Sélectionner la variété de peau (skin) à être utilisée avec  le style Windows 7 (pour les skins qui supportent de multiples variations)
+SkinOptionsW7.nameOverride = Options de skins pour le style Windows 7
+SkinOptionsW7.tipOverride = Sélectionner les options de skins à être utilisée avec le style Windows 7.\nLes options sont une liste de nombres Hexa. La meilleur façon de les obtenir est d'ajuster les options dans la boîte de dialogue des paramètres du Menu Démarrer Classique et de les chercher la valeur nommée SkinOptionsW7 dans HKCU\Software\PassionateCoder\ClassicStartMenu\Settings
+MenuItems7.nameOverride = Élément de menu pour le style Windows 7
+MenuItems7.tipOverride = Sélectionner les éléments de menu à être utilisés avec le style Windows 7.\nLa meilleur façon de les obtenir est de configurer les éléments dans la boîte de dialogue des paramètres du Menu Démarrer Classique et de les chercher la valeur nommée MenuItems7 dans HKCU\Software\PassionateCoder\ClassicStartMenu\Settings
 
 ; windows 7
-SkinA.nameOverride = Peau (skin) pour le sous-menu Tous les Programmes dans le menu démarrer de Windows 7
-SkinA.tipOverride = Sélectionnez la peau (skin) pour le sous-menu Tous les Programmes dans le menu démarrer de Windows 7
-SkinVariationA.nameOverride = Variété de Peau (skin) pour le sous-menu Tous les Programmes dans le menu démarrer de Windows 7
-SkinVariationA.tipOverride = Sélectionnez variété de Peau (skin) pour le sous-menu Tous les Programmes dans le menu démarrer de Windows 7(pour les peaux (skins) qui supportent de multiples variations)
-SkinOptionsA.nameOverride = Options de Peaux (skins) pour le sous-menu Tous les Programmes dans le menu démarrer de Windows 7
-SkinOptionsA.tipOverride = Sélectionnez les options de Peaux (skins) pour le sous-menu Tous les Programmes dans le menu démarrer de Windows 7.\nLes options sont une liste de nombres Hexa. La meilleur façon de les obtenir est d'ajuster les options dans la boîte de dialogue des paramètres du Menu Démarrer Classique et de les chercher la valeur nommée SkinOptionsA dans HKCU\Software\PassionateCoder\ClassicStartMenu\Settings
+SkinA.nameOverride = Skin pour le sous-menu Tous les Programmes dans le menu démarrer de Windows 7
+SkinA.tipOverride = Sélectionner le skin pour le sous-menu Tous les Programmes dans le menu démarrer de Windows 7
+SkinVariationA.nameOverride = Variété de skin pour le sous-menu Tous les Programmes dans le menu démarrer de Windows 7
+SkinVariationA.tipOverride = Sélectionner variété de skin pour le sous-menu Tous les Programmes dans le menu démarrer de Windows 7(pour les peaux (skins) qui supportent de multiples variations)
+SkinOptionsA.nameOverride = Options de skins pour le sous-menu Tous les Programmes dans le menu démarrer de Windows 7
+SkinOptionsA.tipOverride = Sélectionner les options de skins pour le sous-menu Tous les Programmes dans le menu démarrer de Windows 7.\nLes options sont une liste de nombres Hexa. La meilleur façon de les obtenir est d'ajuster les options dans la boîte de dialogue des paramètres du Menu Démarrer Classique et de les chercher la valeur nommée SkinOptionsA dans HKCU\Software\PassionateCoder\ClassicStartMenu\Settings
 
 ; metro settings
 SkipMetro.tipAddition = Ce paramètre ne marche pas sous Windows 8.1. Vous devez utiliser le paramètre interne de Windows pour charger vers le bureau
@@ -175,7 +175,7 @@ FolderCommonStartMenu.nameOverride = Dossier Menu Démarrer commun
 FolderCommonStartMenu.tipOverride = Saisissez une surcharge pour le dossier menu démarrer commun (surcharge aussi le dossier Programmes communs).\nLe chemin d'accès peut contenir des variables d'environnement.\nNote: Ce paramètre est modifiable à partir de la boîte de dialogue des Paramètres
 FolderCommonPrograms.nameOverride = Dossier Programmes communs
 FolderCommonPrograms.tipOverride = Saisissez une surcharge pour le dossier Programmes communs.\nLe chemin d'accès peut contenir des variables d'environnement.\nNote: Ce paramètre est modifiable à partir de la boîte de dialogue des Paramètres
-AutoStartDelay.nameOverride = Délai de l'Auto-démarrage
+AutoStartDelay.nameOverride = Délai de l'auto-démarrage
 AutoStartDelay.tipOverride = Saisissez le délai en ms lorsque vous lancez le menu démarrer automatiquement pendant une ouverture de session (ne s'applique pas lorsque vous démarrez manuellement le menu en lançant ClassicStartMenu.exe).\nNote: Ce paramètre n'est pas modifiable à partir de la boîte de dialogue des Paramètres
 
 ; other
