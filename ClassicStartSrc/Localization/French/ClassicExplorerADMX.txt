@@ -30,7 +30,7 @@ ShowZone.supportedOn = win881
 ; TRANSLATE ===================================================================
 
 Title.text = Paramètres Classic Start
-State.text = Etat:
+State.text = État:
 State1.text = Verrouillé sur cette valeur
 State2.text = Verrouillé sur le paramètre par défaut
 State3.text = Déverrouillé
@@ -42,18 +42,18 @@ ClassicExplorerCat.text = Classic Explorer
 ClassicExplorerCatHelp.text = Paramètres de la stratégie de groupe de Classic Explorer 
 SUPPORTED_CS404.text = Nécessite Classic Start 4.0.4 ou plus.
 SUPPORTED_CS404_WIN7.text = Nécessite Windows 7.
-SUPPORTED_CS404_WIN881.text = Nécessite Windows 8 or Windows 8.1.
+SUPPORTED_CS404_WIN881.text = Nécessite Windows 8 ou Windows 8.1.
 
 AddressAltD.nameOverride = Raccourci Additionnel pour la barre d'adresse
-AddressAltD.tipOverride = Saisissez une lettre de 'A' à 'Z' pour être un raccourci clavier pour la barre d'adresse en combinaison avec la touche Alt
+AddressAltD.tipOverride = Entrer une lettre de 'A' à 'Z' pour être un raccourci clavier pour la barre d'adresse en combinaison avec la touche Alt
 EnableSettings.nameOverride = Activer les paramètres
 EnableSettings.tipOverride = Permettre aux utilisateurs de modifier leurs propres paramètres
 ProcessWhiteList.nameOverride = Liste blanche des processus
 ProcessWhiteList.tipOverride = Liste des processus qui pourront charger Classic Explorer. Utilisez seulement le nom du fichier du processus (comme "notepad.exe"), séparez les noms multiples avec une virgule ou un point virgule.
 ProcessBlackList.nameOverride = Liste noir des processus
-ProcessBlackList.tipOverride =  Liste des processus qui ne pourront pas charger Classic Explorer. Utilisez seulement le nom du fichier du processus (comme "notepad.exe"), séparez les noms multiples avec une virgule ou un point virgule.
+ProcessBlackList.tipOverride =  Liste des processus qui ne pourront pas charger Classic Explorer. Utilisez seulement le nom du fichier du processus (comme "notepad.exe"), séparer les noms multiples avec une virgule ou un point virgule.
 ToolbarItems.nameOverride = Boutons de la barre d'outils
-ToolbarItems.tipOverride = Sélectionnez les boutons à afficher dans la barre d'outils.\nLa meilleur façon d'obtenir la bonne chaîne est de configurerles boutons dans la boîte de dialogue des paramètres de Classic Explorer et de chercher la valeur nommé ToolbarItems dans HKCU\Software\PassionateCoder\ClassicExplorer\Settings
+ToolbarItems.tipOverride = Sélectionner les boutons à afficher dans la barre d'outils.\nLa meilleur façon d'obtenir la bonne chaîne est de configurerles boutons dans la boîte de dialogue des paramètres de Classic Explorer et de chercher la valeur nommé ToolbarItems dans HKCU\Software\PassionateCoder\ClassicExplorer\Settings
 
 
 ; os-specific
