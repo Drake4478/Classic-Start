@@ -7,7 +7,7 @@ LogLevel.supportedOn = never
 ; TRANSLATE ===================================================================
 
 Title.text = Paramètres Classic Start
-State.text = Etat:
+State.text = État:
 State1.text = Verrouillé sur cette valeur
 State2.text = Verrouillé sur le paramètre par défaut
 State3.text = Déverrouillé
